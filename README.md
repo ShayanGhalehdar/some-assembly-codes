@@ -21,7 +21,3 @@ Selected MIPS assembly programs written during a Computer Architecture course. T
 2. File → Open → pick any `.asm` file.
 3. Assemble (F3), then Go (F5).
 4. Input values from memory/registers as the program comments describe.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
